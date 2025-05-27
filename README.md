@@ -59,10 +59,13 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 ---
 
-About Me
+## About Me
 Hi! I’m **Zaina Laham**, a Data Science & AI student passionate about:
 - Machine Learning
-- 3D Vision
+- OpenCv
 - Natural Language Processing
+- Deep Learning
+- Python
+- Data Science
 
 📬 Let’s connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zaina-laham-b6807530b)
