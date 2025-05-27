@@ -48,16 +48,6 @@ pip install torch torchvision torch-geometric matplotlib
 ```bash
 jupyter notebook CV_PROJECT.ipynb
 ```
-Evaluation
-```python
-from sklearn.metrics import classification_report, confusion_matrix
-```
-
-- Model is evaluated on test set
-- Performance metrics are printed with class-level accuracy
-- Confusion matrix visualized using `matplotlib`
-
----
 
 ## About Me
 Hi! I’m **Zaina Laham**, a Data Science & AI student passionate about:
