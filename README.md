@@ -41,7 +41,7 @@ Getting Started
 
 ## Installation
 ```bash
-pip install torch torchvision torch-geometric matplotlib scikit-learn
+pip install torch torchvision torch-geometric matplotlib 
 ```
 
 ## Run the Project
