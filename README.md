@@ -46,7 +46,7 @@ pip install torch torchvision torch-geometric matplotlib
 
 ## Run the Project
 ```bash
-jupyter notebook CV_PROJECT_3D_GCN.ipynb
+jupyter notebook CV_PROJECT.ipynb
 ```
 Evaluation
 ```python
