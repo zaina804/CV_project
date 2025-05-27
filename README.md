@@ -65,4 +65,4 @@ Hi! I’m **Zaina Laham**, a Data Science & AI student passionate about:
 - 3D Vision
 - Natural Language Processing
 
-📬 Let’s connect on [LinkedIn](www.linkedin.com/in/zaina-laham-b6807530b)
+📬 Let’s connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zaina-laham-b6807530b)
