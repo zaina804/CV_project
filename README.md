@@ -1,4 +1,4 @@
-# zaina-s-branch
+## Computer Vision Project
 3D Object Recognition using Graph Neural Networks (GCNs)
 
 ## Overview
