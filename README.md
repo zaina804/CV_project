@@ -30,8 +30,12 @@ In this project, we:
 ## Sample Output
 
 Example visualization of a `monitor` object from the dataset:
+
 ![image](https://github.com/user-attachments/assets/0740f3d7-ae3f-4008-8716-ddf62988d886)
+
+
 Images are saved to `/output_shapes` during runtime.
+
 
 Getting Started
 
