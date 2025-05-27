@@ -11,7 +11,6 @@ We work with **point cloud data** and apply geometric deep learning to recognize
 - GCN (Graph Convolutional Networks)
 - ModelNet10 Dataset
 - Matplotlib (3D Visualization)
-- Scikit-learn (Evaluation Metrics)
 
 ## Dataset
 ModelNet10 is a benchmark dataset containing 3D CAD models from 10 object classes.  
